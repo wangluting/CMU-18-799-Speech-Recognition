@@ -1,0 +1,22 @@
+﻿生成启动时间为 2015/11/3 8:37:51。
+     1>项目“C:\Users\Christina\Desktop\Speech Project\Project2\Project2\Project2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt levenshtein.cpp main.cpp
+         levenshtein.cpp
+     1>levenshtein.cpp(238): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>levenshtein.cpp(307): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christina\Desktop\Speech Project\Project2\Release\Project2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Christina\Desktop\Speech Project\Project2\Release\Project2.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christina\Desktop\Speech Project\Project2\Release\Project2.lib" /MACHINE:X86 /SAFESEH Release\levenshtein.obj
+         Release\main.obj
+         正在生成代码
+         0 of 378 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         Project2.vcxproj -> C:\Users\Christina\Desktop\Speech Project\Project2\Release\Project2.exe
+     1>已完成生成项目“C:\Users\Christina\Desktop\Speech Project\Project2\Project2\Project2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.76

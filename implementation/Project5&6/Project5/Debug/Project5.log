@@ -1,0 +1,54 @@
+﻿生成启动时间为 2015/12/3 10:28:31。
+     1>项目“C:\Users\Christina\Desktop\Speech Project\Project5\Project5\Project5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Christina\Desktop\fftw-3.3.4-dll32" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt create_trellis.cpp main.cpp
+         main.cpp
+     1>c:\users\christina\desktop\speech project\project5\project5\segmentalkmeans.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\segmentalkmeansgmm.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>c:\users\christina\desktop\speech project\project5\project5\hmmmodel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\hmmmodelgmm.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\hmmmodelsgm.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.h(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(61): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(91): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(96): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(148): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(148): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\christina\desktop\speech project\project5\project5\main.cpp(251): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在编译...
+         create_trellis.cpp
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.h(6): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>c:\users\christina\desktop\speech project\project5\project5\hmmmodel.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(5): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(111): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(157): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(198): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(215): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(223): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(383): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(403): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(419): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\christina\desktop\speech project\project5\project5\create_trellis.cpp(426): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christina\Desktop\Speech Project\Project5\Debug\Project5.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Christina\Desktop\fftw-3.3.4-dll32" portaudio_x86.lib "libfftw3-3.lib" "libfftw3f-3.lib" "libfftw3l-3.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Christina\Desktop\Speech Project\Project5\Debug\Project5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christina\Desktop\Speech Project\Project5\Debug\Project5.lib" /MACHINE:X86 Debug\create_trellis.obj
+         Debug\HMMModelGMM.obj
+         Debug\HMMModelSGM.obj
+         Debug\main.obj
+         Debug\mfcc.obj
+         Debug\readwave.obj
+         Debug\SegmentalKmeans.obj
+         Debug\SegmentalKmeansGMM.obj
+         Project5.vcxproj -> C:\Users\Christina\Desktop\Speech Project\Project5\Debug\Project5.exe
+     1>已完成生成项目“C:\Users\Christina\Desktop\Speech Project\Project5\Project5\Project5.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.42
