@@ -3,7 +3,7 @@
 > This course introduces speech recognition
 > It has six projects, and step by step you will implement a ASR that can recognize telephone numbers from 0 to 9
 
-> /slides course slides
-> /project project requirement
-> /implementation project implementation
-> /report project report
+/slides course slides
+/project project requirement
+/implementation project implementation
+/report project report
